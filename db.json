@@ -2,15 +2,10 @@
   "posts": [
     {
       "id": 1,
-      "subject": "Environment",
-      "title": "hello",
-      "Liberal": "Ipsum lorem Liberal",
-      "Conservative": "Ipsum lorem Conservative",
-      "NDP": "Ipsum lorem NDP",
-      "Green": "Ipsum lorem Green",
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "friesend"
   }
 }
